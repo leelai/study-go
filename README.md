@@ -22,3 +22,6 @@
 
 ### Boilerplate
 - [gin-boilerplate](https://github.com/Massad/gin-boilerplate)
+
+### HelloWorld
+- [gin and swagger](https://github.com/leelai/hello-gin-swagger)
